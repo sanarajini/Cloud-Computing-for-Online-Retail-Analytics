@@ -1,0 +1,37 @@
+{
+    "dashboard": {
+        "totalSales": 125000,
+        "totalOrders": 1250,
+        "totalCustomers": 850,
+        "totalProducts": 320
+    },
+
+    "products": [
+        {
+            "name": "Laptop",
+            "category": "Electronics",
+            "sales": 45000
+        },
+        {
+            "name": "Mobile Phone",
+            "category": "Electronics",
+            "sales": 35000
+        },
+        {
+            "name": "Headphones",
+            "category": "Accessories",
+            "sales": 20000
+        }
+    ],
+
+    "sales": {
+        "monthlySales": 125000,
+        "averageOrder": 1000
+    },
+
+    "customers": {
+        "activeCustomers": 650,
+        "newCustomers": 200,
+        "returningCustomers": 450
+    }
+}
